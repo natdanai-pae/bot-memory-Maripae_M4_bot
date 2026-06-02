@@ -16,6 +16,7 @@ Durable memories for this bot live in this folder.
 ## Active Memories
 
 - [[2026-06-02-jj-bda-boundary]]
+- [[2026-06-02-daily-log-auditability]]
 - [[2026-05-16-bot-memory-folder-policy]]
 - [[2026-05-16-user-prefers-obsidian-as-bot-memory-source]]
 - [[maripae-bdainnohub-project]]
