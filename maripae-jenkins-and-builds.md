@@ -3,7 +3,7 @@ type: bot-memory
 memory_type: detailed-topic
 bot: Maripae_M4_bot
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-05
 tags:
   - bot-memory
   - Maripae_M4_bot
@@ -26,3 +26,4 @@ A Jenkins build URL/token was given in chat. Do not expose or copy secret tokens
 - Do not store build tokens in Obsidian memory notes.
 - Do store the behavior: use the established Jenkins trigger path through the pipeline and verify build output.
 - If user asks to trigger build, use the approved pipeline and confirm with logs/status.
+- As of 2026-06-05, Jenkins should only retain the InnoHub deploy job `innohub-ui`; do not recreate or rely on other Jenkins jobs such as Siam Account jobs unless the user explicitly asks to restore them.
