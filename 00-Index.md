@@ -16,6 +16,7 @@ Durable memories for this bot live in this folder.
 ## Active Memories
 
 - [[2026-06-12-kiri-tara-machine-identity]]
+- [[2026-06-21-bda-pm-log-api]]
 - [[2026-06-02-jj-bda-boundary]]
 - [[2026-06-02-daily-log-auditability]]
 - [[2026-06-06-session-boundary-policy]]
